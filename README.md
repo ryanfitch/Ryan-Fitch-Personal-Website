@@ -1,3 +1,3 @@
 # ryan-fitch.com
 
-My personal website which I will be updating perodically.  
+This is the code that powers my personal website and portfolio.   
